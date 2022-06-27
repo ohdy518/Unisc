@@ -21,4 +21,8 @@
  - Requieres Python 3
  
 # Misc.
+*Share this repo with your friends and challenge them to decode the string! 
+
 *Please create a new issue if you found a way to decode.
+
+***Do not use this algorithm to encrypt your password. This algorithm is unverified, and it could be decoded.**
