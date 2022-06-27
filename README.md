@@ -19,3 +19,6 @@
 # Cons
  - MAYBE It's decodeble.
  - Requieres Python 3
+ 
+# Misc.
+*Please create a new issue if you found a way to decode.
